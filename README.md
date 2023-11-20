@@ -1,13 +1,8 @@
-DATABASE_URL="mongodb+srv://quagsulu:zz191123zz@cluster0.u0iisog.mongodb.net/netflixdata"
-# DATABASE_URL="mongodb+srv://quagsulu:zz191123zz@cluster0.u0iisog.mongodb.net/"
-# mongodb+srv://quagsulu:zz191123zz@cluster0.u0iisog.mongodb.net/myDatabase
-# mongodb+srv://quagsulu:<password>@cluster0.u0iisog.mongodb.net/
+# React + Vite
 
-NEXTAUTH_JWT_SECRET="NEXT-JWT-SECRET"
-NEXTAUTH_SECRET="NEXT-SECRET"
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-GITHUB_ID=cad3bee849b769332c4b
-GITHUB_SECRET=3134d595fad4a96b26176191cf278b78ad2482b8
+Currently, two official plugins are available:
 
-GOOGLE_CLIENT_ID=696223449493-pnvah7dg3js1rpgvj5k59r9j0nfrcm3r.apps.googleusercontent.com
-GOOGLE_CLIENT_SECRET=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
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
